@@ -1,0 +1,148 @@
+{"alternate_locations":{"servers":[{"server":"dn721504.ca.archive.org","dir":"/0/items/6309178-Epstein-will"},{"server":"dn760004.eu.archive.org","dir":"/0/items/6309178-Epstein-will"}],"workable":[{"server":"dn721504.ca.archive.org","dir":"/0/items/6309178-Epstein-will"},{"server":"dn760004.eu.archive.org","dir":"/0/items/6309178-Epstein-will"}]},"created":1790214487,"d1":"ia600901.us.archive.org","d2":"ia800901.us.archive.org","dir":"/6/items/6309178-Epstein-will","documentcloud":{"annotations": [], "id": "6309178-Epstein-will", "data": {}, "created_at": "Wed, 21 Aug 2019 18:08:56 +0000", "sections": [], "contributor_organization_slug": "ap", "description": "", "contributor_slug": "18283-ap-staff", "contributor": "AP Staff", "contributor_organization": "Associated Press", "display_language": "eng", "title": "Epstein_will", "resources": {"published_url": "http://www.documentcloud.org/documents/6309178-Epstein-will.html", "pdf": "https://assets.documentcloud.org/documents/6309178/Epstein-will.pdf", "translations_url": "http://www.documentcloud.org/translations/{realm}/{language}", "text": "https://assets.documentcloud.org/documents/6309178/Epstein-will.txt", "print_annotations": "http://www.documentcloud.org/notes/print?docs[]=6309178", "page": {"image": "https://assets.documentcloud.org/documents/6309178/pages/Epstein-will-p{page}-{size}.gif", "text": "http://www.documentcloud.org/documents/6309178/pages/Epstein-will-p{page}.txt"}, "thumbnail": "https://assets.documentcloud.org/documents/6309178/pages/Epstein-will-p1-thumbnail.gif", "search": "http://www.documentcloud.org/documents/6309178/search.json?q={query}"}, "pages": 20, "contributor_documents_url": "http://www.documentcloud.org/public/search/Account:18283-ap-staff", "source": "", "canonical_url": "http://www.documentcloud.org/documents/6309178-Epstein-will.html", "access": "public", "updated_at": "Sun, 03 Nov 2019 15:53:05 +0000", "contributor_organization_documents_url": "http://www.documentcloud.org/public/search/Group:ap", "file_hash": "d5430232d3c7b71cb8e718bc1e2b73852e8a4d98", "language": "eng"},"files":[{"name":"6309178-Epstein-will.epub","source":"derivative","hocr_epub_module_version":"0.0.1","hocr_epub_hocr_version":"1.1.66","format":"EPUB","original":"6309178-Epstein-will_hocr.html","mtime":"1771182812","size":"674894","md5":"44c6cd1d410f54d9ac803862c624f9ad","crc32":"5b1ad06f","sha1":"9523447201ed0f2d891a2052770cadfc0125c594"},{"name":"6309178-Epstein-will.pdf","source":"original","mtime":"1573595924","size":"1276824","md5":"54f594891bac3f8a596f129bf592305a","crc32":"c211e661","sha1":"d5430232d3c7b71cb8e718bc1e2b73852e8a4d98","format":"Image Container PDF"},{"name":"6309178-Epstein-will_abbyy.gz","source":"derivative","format":"Abbyy GZ","original":"6309178-Epstein-will_jp2.zip","mtime":"1578215324","size":"635030","md5":"77f44c6ae8c43260aa7ca5ea644c69d9","crc32":"d51e463c","sha1":"958143d73eeb828c7d46803c0b37b8007f5e6afd"},{"name":"6309178-Epstein-will_archive.torrent","source":"metadata","btih":"5e4cf5868a3a7930c47ebd5bacd6f793d0de0435","mtime":"1771561706","size":"5901","md5":"586e1ff3200d86e94c0e6dcd54ae782f","crc32":"7171260f","sha1":"89b265608a43b7aba7881b6aac497898cb6afd09","format":"Archive BitTorrent"},{"name":"6309178-Epstein-will_chocr.html.gz","source":"derivative","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","format":"chOCR","original":"6309178-Epstein-will_abbyy.gz","mtime":"1767488982","size":"527390","md5":"88cf2aa27dd9310ccdb9b0e7836e5d0a","crc32":"109a6ef7","sha1":"9a5a75fc2a9b5a632885eabcdc504da7a8b3e1ab"},{"name":"6309178-Epstein-will_daisy.zip","source":"derivative","hocr_epub_module_version":"0.0.1","hocr_epub_hocr_version":"1.1.66","format":"Daisy","original":"6309178-Epstein-will_hocr.html","mtime":"1767489047","size":"57697","md5":"5275f89e4664444bcd3ec18e9eb8019d","crc32":"7cbf22d1","sha1":"86c0cbee06ad67dafdd8e5ce5540a366953c4ec5","filecount":"9"},{"name":"6309178-Epstein-will_djvu.txt","source":"derivative","format":"DjVuTXT","original":"6309178-Epstein-will_djvu.xml","mtime":"1767489060","size":"46799","md5":"e22c87fd0bc15c950f3d4ecf1b26230d","crc32":"491ee0e0","sha1":"ec57266bcff5a4a6ee6fc2dda9e4e9505a451b33"},{"name":"6309178-Epstein-will_djvu.xml","source":"derivative","format":"Djvu XML","original":"6309178-Epstein-will_hocr.html","mtime":"1767489012","size":"545522","md5":"d48381013c1c19321c01a942f32a3af3","crc32":"35757a01","sha1":"3b61069f68bfe42f578c94a709c2bcbc158f6fde"},{"name":"6309178-Epstein-will_documentcloud.json","source":"original","mtime":"1573595908","size":"1607","md5":"658d2f4b76b16dda460ba6e96e0c8481","crc32":"868634a3","sha1":"8b6d7f9d4668044af87600a17d491aba7bcdaa94","format":"JSON"},{"name":"6309178-Epstein-will_files.xml","source":"original","format":"Metadata","md5":"16221723763966736911770f9ebd64ae","summation":"md5"},{"name":"6309178-Epstein-will_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","format":"hOCR","original":"6309178-Epstein-will_chocr.html.gz","mtime":"1767489002","size":"1085187","md5":"b3a0aad96fc43dee73f7f40143ad4cad","crc32":"e35b0f1c","sha1":"7639a305fde6e9d3edd377bb23f93989b055207f"},{"name":"6309178-Epstein-will_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"6309178-Epstein-will_hocr.html","mtime":"1767489018","size":"253","md5":"8a94e77df1894a476268e4be4466d92b","crc32":"fe9b648f","sha1":"41554ba43a7e72c6ee237ecdb5e4449a15f1f899"},{"name":"6309178-Epstein-will_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"108","word_conf_11_20":"103","word_conf_21_30":"187","word_conf_31_40":"244","word_conf_41_50":"358","word_conf_51_60":"419","word_conf_61_70":"836","word_conf_71_80":"1175","word_conf_81_90":"1396","word_conf_91_100":"1911","format":"OCR Search Text","original":"6309178-Epstein-will_hocr.html","mtime":"1767489030","size":"13101","md5":"52829104bbbc2627a68c828d272a5f94","crc32":"4349a7bf","sha1":"81642881a3caf59bc93999432ef44f632e72ca92"},{"name":"6309178-Epstein-will_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"6309178-Epstein-will.pdf","mtime":"1578214650","size":"27326529","md5":"d694e4eb81c936a8015c9a2b6848812c","crc32":"7d6e86cf","sha1":"5aea42a0dcb7d7f8bf1506ddfce83b7636df054d","filecount":"20"},{"name":"6309178-Epstein-will_meta.sqlite","source":"original","mtime":"1573595954","size":"10240","format":"Metadata","md5":"d8d4fc49f214c3f0b99d019703fd216d","crc32":"3d894e3b","sha1":"f373f031ce66e72d0c4c3715cc35e50f290b6922"},{"name":"6309178-Epstein-will_meta.xml","source":"original","mtime":"1771561703","size":"1382","format":"Metadata","md5":"f3c4500f9478359e4f9ea12fcbb5bcbd","crc32":"295ddf4c","sha1":"ea6243731a877ec80d315dc4dcc5d6751a7c7088"},{"name":"6309178-Epstein-will_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"38","format":"Page Numbers JSON","original":"6309178-Epstein-will_hocr.html","mtime":"1767489105","size":"3512","md5":"8cc71eeb7c82ad45e0c288c1b3e5e71d","crc32":"337659d0","sha1":"73d30dd308bdf3a533e8abf71fe8b52826a52882"},{"name":"6309178-Epstein-will_scandata.xml","source":"derivative","format":"Scandata","original":"6309178-Epstein-will_djvu.xml","mtime":"1767489105","size":"6479","md5":"6c4c06d5dba87c6130dd6441efbdb8b9","crc32":"85aa4c77","sha1":"5e70076517003b58cee46da1ba37962d59664b21"},{"name":"6309178-Epstein-will_text.pdf","source":"derivative","pdf_module_version":"0.0.25","pdf_degraded":"invalid-jp2-headers","format":"Additional Text PDF","original":"6309178-Epstein-will_page_numbers.json","mtime":"1767489471","size":"4325852","md5":"b972396a77c9c07dc93bc0e536601dfe","crc32":"eefbcded","sha1":"4f2be635f4a5f113049f675e37a5f35edd75db00"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1767488938","size":"14162","md5":"9ae104a0e5b04a0874a82910fd246572","crc32":"50f3606b","sha1":"c9fba4220875e84aa6cd74a91b3b20f42554d876","format":"Item Tile","rotation":"0"}],"files_count":20,"item_last_updated":1771561706,"item_size":36558361,"metadata":{"identifier":"6309178-Epstein-will","contributor":["AP Staff","Associated Press"],"date":"2019-08-21","external-identifier":"urn:documentcloud:6309178","language":"eng","mediatype":"texts","notes":"This material may be protected by copyright law (Title 17 U.S. Code).","scanner":"Internet Archive Python library 1.8.5","source":"http://www.documentcloud.org/documents/6309178-Epstein-will.html","title":"Epstein_will","publicdate":"2019-11-12 21:58:29","uploader":"arkiver@archive.org","addeddate":"2019-11-12 21:58:29","identifier-access":"http://archive.org/details/6309178-Epstein-will","identifier-ark":"ark:/13960/t38139r1n","imagecount":"20","ppi":"600","backup_location":"ia907006_8","foldoutcount":"0","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","page_number_confidence":"38","page_number_module_version":"1.0.5","pdf_degraded":"invalid-jp2-headers","pdf_module_version":"0.0.25","collection":"documentcloud"},"page_numbers":{
+    "identifier": "6309178-Epstein-will",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 38,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": 67,
+            "pageNumber": "4",
+            "pageProb": 57,
+            "wordConf": 7
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "5",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": 67,
+            "pageNumber": "6",
+            "pageProb": 57,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "7",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": 67,
+            "pageNumber": "8",
+            "pageProb": 57,
+            "wordConf": 10
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "9",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": 100,
+            "pageNumber": "10",
+            "pageProb": 99,
+            "wordConf": 39
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"server":"ia800901.us.archive.org","uniq":2081477489,"workable_servers":["ia800901.us.archive.org","ia600901.us.archive.org"]}
